@@ -11,3 +11,4 @@ Requirements:
 - Using MongoDB with MLab
 - Basics of HTML, CSS, JS
 - Need to know Angular and Node
+- Postman tool used to test API development
