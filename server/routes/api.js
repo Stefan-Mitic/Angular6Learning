@@ -48,4 +48,10 @@ router.post('/login', (req, res) => {
     })
 })
 
+router.get('/events', (req, res) => {
+    // Hard coded list of events
+    // let event = []
+    // res.json(events)
+})
+
 module.exports = router
