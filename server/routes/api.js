@@ -54,4 +54,10 @@ router.get('/events', (req, res) => {
     // res.json(events)
 })
 
+router.get('/special', (req, res) => {
+    // Hard coded list of events
+    // let event = []
+    // res.json(events)
+})
+
 module.exports = router
