@@ -1,4 +1,5 @@
 const express = require('express')
+const jwt = require('jwt')
 const router = express.Router()
 const User = require('../models/user')
 
